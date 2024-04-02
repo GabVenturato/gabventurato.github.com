@@ -2,24 +2,22 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: <a href="https://dtai.cs.kuleuven.be/" target="_blank">DTAI</a>. <a href="https://www.kuleuven.be/kuleuven/" target="_blank">KU Leuven</a>.
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: gabriele.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Department of Computer Science, office 02.65</p>
+    <p>Celestijnenlaan 200A</p>
+    <p>3001 Leuven</p>
 
 news: true # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Hi, I'm Gabriele Venturato, a PhD student in the [DTAI](https://dtai.cs.kuleuven.be/) research group at [KU Leuven](https://www.kuleuven.be/kuleuven/), supervised by [Luc De Raedt](https://wms.cs.kuleuven.be/people/lucderaedt). I obtained both my bachelor's and master's degrees in Computer Science at [University of Udine](https://www.uniud.it).
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+At the moment I'm focused on planning and (safe) reinforcement learning. In particular, on how to exploit a symbolic representation (aka knowledge compilation) to perform inference and learning on decision making under uncertainty in dynamic domains; and on learning policies that must respect some (safety) properties. I'm also interested in SAT solvers and formal methods.
