@@ -1,7 +1,7 @@
 ---
 layout: page
 title: projects
-description: Check out <a href="https://github.com/GabVenturato" target="_blank">my GitHub profile</a> for more projects.
+description: Check out my GitHub profile for more projects.
 permalink: /projects/
 nav: true
 nav_order: 3
