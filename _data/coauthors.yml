@@ -1,23 +1,23 @@
-"Gigante":
+"gigante":
   - firstname: ["Nicola", "N."]
     url: https://www.inf.unibz.it/~gigante/
 
-"Geatti":
+"geatti":
   - firstname: ["Luca", "L."]
     url: http://users.dimi.uniud.it/~luca.geatti/
 
-"Montanari":
+"montanari":
   - firstname: ["Angelo", "A."]
     url: http://users.dimi.uniud.it/~angelo.montanari/
 
-"Derkinderen":
+"derkinderen":
   - firstname: ["Vincent", "V."]
     url: https://vincentderk.github.io
 
-"Zuidberg Dos Martires":
+"zuidberg dos martires":
   - firstname: ["Pedro", "P."]
     url: https://pedrozudo.github.io
 
-"De Raedt":
+"de raedt":
   - firstname: ["Luc", "L."]
     url: https://wms.cs.kuleuven.be/people/lucderaedt/
