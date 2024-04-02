@@ -1,8 +1,8 @@
 ---
 layout: page
 title: projects
-permalink: /projects/
 description: Check out <a href="https://github.com/GabVenturato" target="_blank">my GitHub profile</a> for more projects.
+permalink: /projects/
 nav: true
 nav_order: 3
 # display_categories: [work, fun]
