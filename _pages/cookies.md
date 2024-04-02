@@ -7,7 +7,7 @@ nav: false
 published: true
 ---
 
-{% include figure.html path="assets/img/cookies.jpg" title="Cookies Meme" class="img-fluid rounded z-depth-1" %}
+{% include figure.liquid loading="eager" path="assets/img/cookies.jpg" title="Cookies Meme" class="img-fluid rounded z-depth-1" %}
 
 If you don't care about data protection, don't continue reading, you don't want to hear this. If instead you care, well, probably you still don't want to hear this.
 
