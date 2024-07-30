@@ -21,3 +21,11 @@
 "de raedt":
   - firstname: ["Luc", "L."]
     url: https://wms.cs.kuleuven.be/people/lucderaedt/
+
+"de smet":
+  - firstname: ["Lennert", "L."]
+    url: https://lennertdesmet.github.io
+
+"marra":
+  - firstname: ["Giuseppe", "G."]
+    url: https://www.giuseppemarra.com
