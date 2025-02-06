@@ -29,3 +29,19 @@
 "marra":
   - firstname: ["Giuseppe", "G."]
     url: https://www.giuseppemarra.com
+
+"debot":
+  - firstname: ["David", "D."]
+    url: https://daviddebot.github.io
+
+"hazra":
+  - firstname: ["Rishi", "R."]
+    url: https://rishihazra.github.io
+
+"theeuwes":
+  - firstname: ["Ebert", "E."]
+    url: https://www.linkedin.com/in/ebert-theeuwes/
+
+"rens":
+  - firstname: ["Gavin", "G."]
+    url: https://dblp.org/pid/47/8771
