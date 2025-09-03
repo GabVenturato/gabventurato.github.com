@@ -16,8 +16,8 @@ nav_order: 6
 
 ## theses supervisor
 
-- Xiehan Chen. _Pixels Are Not Enough: Extracting Relational Representations From Game Images_ (Master Thesis, _ongoing_)
-- Diego Arapović. _Probabilistic Logic Shields For The CARLA Autonomous Driving Simulator_ (Project,2025)
+- Xiehan Chen. _Exploring MESH On MiniHack: Approaching Generalization To Unseen Object Counts Through Analysis And Regularization Of Marginals_ (Master Thesis, 2025)
+- Diego Arapović. _Probabilistic Logic Shields For The CARLA Autonomous Driving Simulator_ (Project, 2025)
 - Nolle Everaert. _Learning to Segment Game Environments From Relational Supervision_ (Master Thesis, 2025)
 - Ben Kirkels. _ProbLog for the win: improving agents for the board game ”Love Letters”_ (Master Thesis, 2025)
 - Lander Fannes and Robbe Huybs. _From Pixels to Action: Crafting Smart Sensors for MiniHack Games_ (Bachelor Thesis, 2025)
