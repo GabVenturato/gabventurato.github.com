@@ -3,7 +3,7 @@ layout: page
 title: mapl-cirup
 description: MArkov PLanning with CIRcuit bellman UPdates
 img:
-importance:
+importance: 3
 category: work, solvers
 ---
 

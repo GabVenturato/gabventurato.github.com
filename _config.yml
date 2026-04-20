@@ -6,7 +6,7 @@ title: blank # the website title (if blank, full name will be used instead)
 first_name: Gabriele
 # middle_name:
 last_name: Venturato
-email: gabriele.venturato@kuleuven.be
+email: gabriele@segments.ai
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Computer Science PhD researcher in the DTAI research group at KU Leuven.
 footer_text: >
@@ -69,7 +69,7 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 
 github_username: GabVenturato # your GitHub user name
 gitlab_username: # your GitLab user name
-x_username: GabVenturato # your X handle
+x_username: # your X handle
 mastodon_username: # your mastodon instance+username in the format instance.tld/@username
 linkedin_username: gabrieleventurato # your LinkedIn user name
 telegram_username: # your Telegram user name

@@ -3,7 +3,7 @@ layout: page
 title: BLACK
 description: Bounded Lᴛʟ sAtisfiability ChecKer
 img:
-importance:
+importance: 4
 category: work, solvers
 ---
 
